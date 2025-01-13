@@ -1,59 +1,33 @@
-# Hi there, I'm Yaseen Ijaz! 👋
+## Hi there 👋 It's me Yaseen Ijaz
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong background in Physics and a knack for solving problems using code. I'm currently focusing on frontend development and exploring exciting projects that bridge creativity and technology.
+Frontend Developer | Aspiring Fullstack Developer
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
----
-
-## 🌟 About Me:
-- 🎓 **Education:** Bachelor of Science in Physics (Graduated in 2023)
-- 💻 **Career Transition:** Successfully transitioned from Physics to IT, focusing on frontend development.
-- 🛠️ **Skills:**
-  - Programming Languages: Python, JavaScript, SQL
-  - Frontend Development: HTML, CSS, JavaScript
-  - Tools & Technologies: MongoDB, Pandas, NumPy, Eclipse IDE
-
----
-
-## 🚀 Projects
-### [My Web Tools Project](https://yaseenijaz.github.io/Calculator/)
-- **Description:** A fully functional calculator deployed online.
-- **Technology:** HTML, CSS, JavaScript
-
-### Amazon Clone
-- **Description:** A feature-rich e-commerce platform.
-- **Highlights:**
-  - Dynamic navigation and filtering with `localStorage`
-  - Modular JavaScript structure
-  - Shopping cart and order management
-  - Dynamic CSS handling based on page
-
-### Customer Conversion Prediction
-- **Description:** A machine learning project predicting customer subscription to insurance.
-- **Highlights:** Data cleaning, EDA, preprocessing, and deployment with Streamlit.
-
-### YouTube API Data Retrieval
-- **Description:** A project utilizing YouTube API to fetch data, storing it in SQL, transforming it into MongoDB, and presenting results in Streamlit.
+- 🔭 Here's my [portfolio](https://zesty-choux-68ca1c.netlify.app/)  
+- 🌱 I’m currently learning Java Programming and Backend Development  
+- 👯 I’m looking to collaborate on frontend or fullstack projects  
+- 🤔 I’m looking for help with placement in frontend development  
+- 💬 Ask me about HTML, CSS, JavaScript, or Python  
+- 📫 How to reach me:  
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yaseenijaz78/)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I know Japanese!
 
 ---
 
-## 💼 Experience
-- **Data Science Intern** at Prodigy InfoTech (1 month):
-  - Completed 4 projects including Twitter Sentiment Analysis and Customer Churn Prediction.
-  - Gained hands-on experience with Python, SQL, and data visualization tools.
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
 
 ---
 
-## 🌱 Currently Learning
-- **Java:** Exploring object-oriented programming using Eclipse IDE.
-- **Fullstack Development:** Enhancing my skills to work seamlessly across the stack.
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/Windows-10_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
----
+![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaseenijaz&theme=dark&show_icons=true&&hide=issues,contribs)
 
-## 📫 Let's Connect
-- **Email:** yaseenijaz146@gmail.com
-- **LinkedIn:** [Yaseen Ijaz](https://www.linkedin.com/in/yaseenijaz78/) 
-- **Portfolio:** *(Coming Soon)*
+[![Leetcode Stats](https://leetcard.jacoblin.cool/yaseenijaz?ext=contest&theme=dark)](https://leetcode.com/yaseenijaz)
 
----
-
-Thank you for visiting my GitHub profile! I'm excited to collaborate on projects, contribute to open-source, and learn from the community. Let's build something amazing together! 🚀
+[![Yaseen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaseenijaz&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
