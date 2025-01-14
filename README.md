@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Yaseen Ijaz
 
 Frontend Developer | Aspiring Fullstack Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 - 🔭 Here's my [portfolio](https://zesty-choux-68ca1c.netlify.app/)  
 - 🌱 I’m currently learning Java Programming and Backend Development  
